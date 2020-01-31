@@ -2,4 +2,5 @@
 
 Structure and Interpretation of Computer Programs.
 
-With MIT Scheme.
+https://sarabander.github.io/sicp/
+
