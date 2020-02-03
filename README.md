@@ -1,6 +1,4 @@
 # sicp-solution
 
-Structure and Interpretation of Computer Programs.
-
-https://sarabander.github.io/sicp/
+Solutions for Structure and Interpretation of Computer Programs.
 
